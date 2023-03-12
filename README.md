@@ -12,6 +12,15 @@ Get the path for the main.py file
 
 ![image](https://user-images.githubusercontent.com/15097797/224567612-b5e30aec-9547-4411-a30f-2bf77d1a06c9.png)
 
+Install the script requirements 
+
+
+
+```
+pip install -r requirements.txt 
+```
+
+
 On your ```bash``` terminal run the following command
 
 ```
