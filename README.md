@@ -34,3 +34,12 @@ alias gpt='PATH TO main.py"'
 
 Save the file and restart terminal and you're all set!
 
+# Q&A
+
+## Does this monitor my GPT requests?
+
+Nope, this was simply made to make my life easier. You are more than welcome to take a look at the code yourself and verify that no info is being shared
+
+## Will you update this more often?
+
+I'll update and send out releases if I came across ways to improve it or if I get requested features
