@@ -7,7 +7,7 @@ query = ' '.join(sys.argv[1:])
 url = f"https://chat.openai.com/chat"
 print('Starting up your Browser...')
 webbrowser.open(url)
-sleep(2)
+sleep(4)
 pe.typewrite(query)
 sleep(1)
 pe.press('enter')
