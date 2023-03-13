@@ -5,6 +5,7 @@ from time import sleep
 
 query = ' '.join(sys.argv[1:])
 url = f"https://chat.openai.com/chat"
+print('Starting up your Browser...')
 webbrowser.open(url)
 sleep(2)
 pe.typewrite(query)
