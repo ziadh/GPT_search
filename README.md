@@ -27,9 +27,9 @@ On your ```bash``` terminal run the following command
 cd ~
 ```
 
-Edit the ```.bashrc``` file using vim, neon, or your any text editor and add this alias replacing the PATH TO main with the path you got from step 2
+Edit the ```.bashrc``` file using vim, neon, or your any text editor and add this alias replacing the PATH-TO-main with the path you got from step 2
 ```
-alias gpt='PATH TO main.py"'
+alias gpt='python PATH-TO-main.py'
 ```
 
 Save the file and restart terminal and you're all set!
